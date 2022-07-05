@@ -88,7 +88,13 @@
     color: grey;
   }
   .todo{
+    margin-top: 0.8em;
+    width: 20em;
+    height: 2em;
     background-color: white;
-    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     border-radius: 6px;
+    padding: 5px;
 }
